@@ -9,7 +9,7 @@ The fundamental concepts of a version control is to help the developer track all
 Setting up a new repository .
 - select new repository 
 - ⁠create a repository name 
-- ⁠add a description 
+- ⁠add a description
 - ⁠choose is you want it to be private or public 
 - ⁠add a README file just to explain what the project is about 
 - ⁠add a .gitignore file : which is helps to exclude unnecessary files 
